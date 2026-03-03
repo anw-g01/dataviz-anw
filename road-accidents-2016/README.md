@@ -15,7 +15,7 @@ Data source : [Road Safety Open Data, GOV.UK](https://www.gov.uk/government/stat
 
 <a href="./notebooks/accidents_by_weekday.ipynb">
   <img src="./images/accidents_by_weekday_bar_chart.svg"
-    alt="daily road accidents"
+    alt="accidents by weekday"
     width="100%">
 </a>
 
@@ -24,7 +24,7 @@ Data source : [Road Safety Open Data, GOV.UK](https://www.gov.uk/government/stat
 
 <a href="./notebooks/accidents_involving_animals.ipynb">
   <img src="./images/accidents_involving_animals_pie_chart.svg"
-    alt="daily road accidents"
+    alt="accidents involving animals"
     width="100%">
 </a>
 
@@ -32,6 +32,6 @@ Data source : [Road Safety Open Data, GOV.UK](https://www.gov.uk/government/stat
 
 <a href="./notebooks/casualty_severity_by_sex.ipynb">
   <img src="./images/casualty_severity_by_sex.svg"
-    alt="daily road accidents"
+    alt="casualty severity by sex"
     width="100%">
 </a>
