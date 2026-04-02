@@ -8,4 +8,6 @@ An on-going collection of exploratory data visualisation case studies using Pyth
 
 2. [Global Natural Disasters Since 1900](./global-natural-disasters/)
 
-2. [Major Global Commodities](./major-global-commodities/)
+3. [Major Global Commodities](./major-global-commodities/)
+
+4. [Air Temperature in Ireland (2025)](./air-temperatures-ireland/)
