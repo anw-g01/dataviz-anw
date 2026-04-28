@@ -49,7 +49,6 @@ def prepare_taxi_trips(df: pd.DataFrame) -> pd.DataFrame:
 
             # trip dates and times
             pickup_date=lambda x: x["pickup_datetime"].dt.date,
-            pickup_time=lambda x: x["pickup_datetime"].dt.time,
             pickup_hour=lambda x: x["pickup_datetime"].dt.hour,
             pickup_month=lambda x: x["pickup_datetime"].dt.month_name().astype("category"),   
 
