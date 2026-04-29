@@ -8,6 +8,12 @@ Data Source: [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-
     width="100%">
 </a>
 
+<a href="./notebooks/trips_by_pickup_hour.ipynb">
+  <img src="./images/trips_by_pickup_hour.svg"
+    alt="taxi trips by weekdays"
+    width="100%">
+</a>
+
 <a href="./notebooks/trips_by_pickup_borough.ipynb">
   <img src="./images/trips_by_pickup_borough.svg"
     alt="taxi trips by weekdays"
