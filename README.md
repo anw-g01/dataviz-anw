@@ -11,3 +11,5 @@ An on-going collection of exploratory data visualisation case studies using Pyth
 3. [Major Global Commodities](./major-global-commodities/)
 
 4. [Air Temperature in Ireland (2025)](./air-temperatures-ireland/)
+
+5. [NYC Taxi Trips (Summer 2025)](./nyc-taxi-trips-2025/)
